@@ -1,49 +1,84 @@
-Self Learning Project Template
-Goal : Fill the skills gaps by self learning while leveraging technology
-This POC is implementing the ai cli for the beginner ai engineers. 
+# Self Learning Project Template
 
-📚 Documentation for the Folder Structure
-Section	Description	Action
-1_🌍_Real	The Job That Starts with Objective and Key Results - Sets goals and objectives, aligning tasks with measurable results.	Aim > Goals
-2_✈️_Journey	Visual Story Explained with Steps - A self-learning guide from beginner to skilled in visual storytelling.	Feel > Experience
-3_🌳_Environments	The Roadmap and Use Cases - A roadmap with learning modules and real-world use cases to apply new skills.	Create > Runtimes
-4_🌌_Imaginary	What You Learn on the Road - Tracks concepts, theories, and skills acquired, promoting continuous growth.	Capture > Screenshots
-5_📐_Formulas	The Guides That Are Mentioned - Essential guides and formulas for understanding and solving project challenges.	GPT > Learn from it
-6_🔣_Symbols	Code That Is Implemented - Includes code snippets and examples to demonstrate each concept practically.	Execute > Code
-7_🌀_Semblance	Errors Found in the Process - Documents mistakes and solutions, making errors valuable learning opportunities.	Fix > Errors
-👥 Collaborators
-🔄 Prompts:
-🎯 Objectives
-Develop a comprehensive self-learning framework that:
-Maps learning stages to Lacan's triad concepts
-Provides clear metrics for progress tracking
-Includes practical validation methods
-Establish a systematic process to:
-Identify current skill levels
-Define target competencies
-Create actionable learning plans
-Measure skill development
-Build a portfolio of real-world projects that:
-Demonstrate applied knowledge
-Solve actual business problems
-Follow industry best practices
-Include detailed documentation
-📊 Key Results
-Implement folder structure mapping to Lacan's concepts
-Track progress through clear documentation and examples
-Validate learning through hands-on implementation
-Capture errors and solutions for continuous improvement
-📝 Format Requirements
-Use clear markdown structure and headings
-Include relevant emojis for visual organization
-Add concise single-line comments for clarity
-Maintain consistent formatting throughout
-Eliminate redundant information
-✅ Quality Checks
-Verify grammar and spelling
-Validate markdown syntax
-Ensure documentation completeness
-Test all code examples
-Review for duplicate content
-🔧 PromptFixer:
-Act as a prompt engineer, review the prompt and ask your questions, write a better version of the prompt
+## 🎯 Goal
+Fill skill gaps through structured self-learning while leveraging AI technology. This proof-of-concept implements an AI CLI framework for beginner AI engineers.
+
+---
+
+## 📚 Folder Structure & Learning Framework
+
+| Section | Focus Area | Description | Action |
+|---------|------------|-------------|---------|
+| **1_🌍_Real** | **Objectives** | Job requirements and measurable goals using OKRs methodology | **Aim** → Define Goals |
+| **2_✈️_Journey** | **Experience** | Visual learning path from beginner to proficient with step-by-step guidance | **Feel** → Document Experience |
+| **3_🌳_Environments** | **Implementation** | Roadmap with learning modules and real-world use cases | **Create** → Build Runtimes |
+| **4_🌌_Imaginary** | **Knowledge** | Concepts, theories, and skills acquired during the learning process | **Capture** → Take Screenshots |
+| **5_📐_Formulas** | **Resources** | Essential guides, formulas, and reference materials | **GPT** → Learn from AI |
+| **6_🔣_Symbols** | **Code** | Practical implementations, code snippets, and working examples | **Execute** → Run Code |
+| **7_🌀_Semblance** | **Debugging** | Error documentation and solutions for continuous improvement | **Fix** → Resolve Issues |
+
+---
+
+## 🎯 Learning Objectives
+
+### Primary Goals
+- **Framework Development**: Create a comprehensive self-learning system that maps learning stages to structured concepts
+- **Progress Tracking**: Establish clear metrics and validation methods for skill development
+- **Practical Application**: Build a portfolio of real-world projects demonstrating applied knowledge
+
+### Systematic Process
+1. **Assessment**: Identify current skill levels and knowledge gaps
+2. **Planning**: Define target competencies and create actionable learning plans
+3. **Execution**: Implement hands-on projects following industry best practices
+4. **Validation**: Measure progress through practical demonstrations
+5. **Documentation**: Maintain detailed records for future reference
+
+---
+
+## 📊 Success Metrics
+
+### Key Results
+- ✅ Complete folder structure implementation with clear documentation
+- ✅ Track learning progress through examples and practical work
+- ✅ Validate knowledge through hands-on AI CLI implementation
+- ✅ Document errors and solutions for iterative improvement
+- ✅ Build portfolio showcasing real-world problem-solving
+
+### Quality Standards
+- **Documentation**: Clear markdown structure with consistent formatting
+- **Code Quality**: Working examples with proper commenting and error handling
+- **Completeness**: Comprehensive coverage of learning objectives
+- **Validation**: All code tested and examples verified
+
+---
+
+## 🔧 Implementation Guidelines
+
+### Format Requirements
+- Use clear markdown headings and structure
+- Include relevant emojis for visual organization
+- Add concise comments for code clarity
+- Maintain consistent formatting throughout
+- Eliminate redundant information
+
+### Quality Checklist
+- [ ] Grammar and spelling verified
+- [ ] Markdown syntax validated
+- [ ] Documentation completeness confirmed
+- [ ] All code examples tested
+- [ ] Duplicate content removed
+- [ ] Learning objectives aligned with folder structure
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone/Setup**: Initialize project structure with the 7 core folders
+2. **Define Goals**: Populate `1_🌍_Real` with specific learning objectives
+3. **Plan Journey**: Map out learning path in `2_✈️_Journey`
+4. **Start Building**: Begin with simple implementations in `6_🔣_Symbols`
+5. **Document Everything**: Capture learnings and errors as you progress
+
+---
+
+*This template provides a structured approach to self-directed learning while building practical AI engineering skills.*
